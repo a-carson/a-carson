@@ -30,10 +30,10 @@ repository: "a-carson/a-carson"
 ##remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #theme: minimal-mistakes-jekyll
 #minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-include-cache
+#plugins:
+#  - jekyll-feed
+#  - jekyll-remote-theme
+#  - jekyll-include-cache
 #classes: wide
 #
 #author:
