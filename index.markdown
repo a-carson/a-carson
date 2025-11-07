@@ -46,6 +46,12 @@ ICASSP
 **Alistair Carson**, Alec Wright, Stefan Bilbao  <br>
 *Proc. IEEE Int. Conf. Acoust. Speech and Signal Process. (ICASSP)*, Hyderabad, India, Apr. 2025
 
+<span style="display:inline-block; padding:2px 6px; margin-left:6px; background:#e0e0e0; border-radius:6px; font-size:12px; font-weight:bold;">
+DAFx
+</span>   [Sample rate independent recurrent neural networks for audio effects processing](https://arxiv.org/pdf/2406.06293) <br>
+**Alistair Carson**, Alec Wright, Jatin Chowdhury, Vesa Välimäki, Stefan Bilbao  <br>
+*Proc. 27th Int. Conf. Digital Audio Effects (DAFx24)*, Guildford, UK, Sept. 2024
+
 
 <span style="display:inline-block; padding:2px 6px; margin-left:6px; background:#e0e0e0; border-radius:6px; font-size:12px; font-weight:bold;">
 DAFx
