@@ -16,7 +16,6 @@ p {
 I am a final year PhD student in the
 [Acoustics and Audio Group (AAG)](https://www.acoustics.ed.ac.uk/) and [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
 My main research interest is in modelling of analog audio effects, with a focus on the intersection between tradidional digital signal processing and neural networks for this task. 
-My specific areas of focus so far have been antialiasing, sample rate independent neural networks and modulation effects modelling.
 
 My research is fully funded by the [Scottish Graduate School of Arts and Humantities (SGSAH)](https://www.sgsah.ac.uk/).
 
