@@ -22,7 +22,7 @@ title:
 name: Alistair Carson
 email: acarson2@ed.ac.uk
 description: Me.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  a-carson
 repository: "a-carson/a-carson"
