@@ -14,12 +14,12 @@ p {
 
 ## About me
 I am a final year PhD student in the
-[Acoustics and Audio Group (AAG)](https://www.acoustics.ed.ac.uk/) and [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
-My main research interest is in modelling of analog audio effects, with a focus on the intersection between tradidional digital signal processing and neural networks for this task. 
+[Acoustics and Audio Group (AAG)](https://www.acoustics.ed.ac.uk/) and [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/).
+My research is on applied signal processing for machine learning models of audio effects.
 
-My research is fully funded by the [Scottish Graduate School of Arts and Humantities (SGSAH)](https://www.sgsah.ac.uk/).
+My research is fully funded by the [Scottish Graduate School of Arts and Humanities (SGSAH)](https://www.sgsah.ac.uk/).
 
-Since 2020 I have also been a teaching member of staff in the AAG, including a one year full time post as *Teaching Fellow in Acoustics* prior to starting my PhD.
+Since 2020 I have also been a teaching member of staff in the AAG, including a one-year full time post as *Teaching Fellow in Acoustics* prior to starting my PhD.
 
 I am a keen guitar player and songwriter -- currently involved in two [musical ventures](/music.md).
 
